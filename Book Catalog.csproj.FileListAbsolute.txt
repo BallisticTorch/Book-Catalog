@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\Book Catalog\Book Catalog\bin\Debug\Book Catalog.exe
+C:\Users\Admin\source\repos\Book Catalog\Book Catalog\bin\Debug\Book Catalog.pdb
+C:\Users\Admin\source\repos\Book Catalog\Book Catalog\obj\Debug\Book_Catalog.BookCatalogUI.resources
+C:\Users\Admin\source\repos\Book Catalog\Book Catalog\obj\Debug\Book_Catalog.Properties.Resources.resources
+C:\Users\Admin\source\repos\Book Catalog\Book Catalog\obj\Debug\Book Catalog.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Book Catalog\Book Catalog\obj\Debug\Book Catalog.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Book Catalog\Book Catalog\obj\Debug\Book Catalog.exe
+C:\Users\Admin\source\repos\Book Catalog\Book Catalog\obj\Debug\Book Catalog.pdb
+C:\Users\Admin\source\repos\Book Catalog\Book Catalog\obj\Debug\Book_Catalog.SearchCatalogControl.resources
+C:\Users\Admin\source\repos\Book Catalog\Book Catalog\obj\Debug\Book_Catalog.AddNewBookControl.resources
+C:\Users\Admin\source\repos\Book Catalog\Book Catalog\obj\Debug\Book Catalog.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Book Catalog\Book Catalog\bin\Debug\Book Catalog.exe.config
+C:\Users\Admin\source\repos\Book Catalog\Book Catalog\bin\Debug\Dapper.dll
+C:\Users\Admin\source\repos\Book Catalog\Book Catalog\bin\Debug\Dapper.xml
+C:\Users\Admin\source\repos\Book Catalog\Book Catalog\obj\Debug\Book Catalog.csproj.CopyComplete
